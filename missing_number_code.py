@@ -7,7 +7,7 @@ def getMissingNo(A):
 
 
 # Driver program to test the above function
-A = [1, 2, 4, 5, 6]
+A = [1, 2, 3, 4, 5, 6, 7, 9, 10]
 miss = getMissingNo(A)
 print(miss)
 # This code is contributed by Pratik Chhajer
